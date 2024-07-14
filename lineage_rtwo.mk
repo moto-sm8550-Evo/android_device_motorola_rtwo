@@ -20,7 +20,7 @@ PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := motorola edge 40 pro
 
-EVO_BUILD_TYPE := Official
+# EVO_BUILD_TYPE := Official
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_USES_PICO_GAPPS := true
 
