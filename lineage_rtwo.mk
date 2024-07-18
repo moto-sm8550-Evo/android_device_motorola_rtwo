@@ -22,7 +22,6 @@ PRODUCT_MODEL := motorola edge 40 pro
 
 # EVO_BUILD_TYPE := Official
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_USES_PICO_GAPPS := true
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
