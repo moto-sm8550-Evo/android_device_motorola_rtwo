@@ -99,3 +99,4 @@ bcl_pmic5.ko
 nvme-core.ko
 nvme.ko
 qrng_dlkm.ko
+qcom-scm.ko
