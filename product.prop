@@ -2,5 +2,5 @@
 esim.enable_esim_system_ui_by_default=true
 masterclear.allow_retain_esim_profiles_after_fdr=true
 # Google
-ro.com.google.ime.kb_pad_port_l=14
-ro.com.google.ime.kb_pad_port_r=14
+ro.com.google.ime.kb_pad_port_l=11
+ro.com.google.ime.kb_pad_port_r=11
